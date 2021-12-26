@@ -216,6 +216,7 @@
 - [Leksand [leks1234]](tree/indo1319/clas1257/germ1287/nort3152/nort3160/nort3266/east2780/dale1238/oste1242/neda1234/leks1234/md.ini)
 - [Lela [lela1244]](tree/atla1278/volt1241/nort3149/gura1261/cent2243/sout3164/grus1239/nort2782/nuna1234/kase1253/lela1244/md.ini)
 - [Lelain [lela1245]](tree/aust1307/mala1545/cent2237/cent2245/timo1259/west2545/rote1234/west2955/deng1253/lela1245/md.ini)
+- [Lelea [lele1248]](tree/aust1307/mala1545/mala1536/sund1251/sund1252/lele1248/md.ini)
 - [Lelehudi [lele1269]](tree/aust1307/mala1545/cent2237/east2712/ocea1241/west2818/papu1253/nucl1744/nort2848/aret1241/taup1241/nucl1794/tawa1275/lele1269/md.ini)
 - [Lelenuk [lele1271]](tree/aust1307/mala1545/cent2237/cent2245/timo1259/west2545/rote1234/east2858/cent2375/east2859/bilb1242/lele1271/md.ini)
 - [Lelet [lele1268]](tree/aust1307/mala1545/cent2237/east2712/ocea1241/west2818/meso1253/newi1242/mada1284/mada1285/lele1268/md.ini)
